@@ -32,7 +32,7 @@ Convert.py was used to convert a sequence from .gbk to .fasta file. The out put 
 
 To filter the sequence less than 100 amino acids long filter1.2.py was used and the output was in filter1.2 text
 
-edit.py was used to edit the sequence to take everything except the last letter from  PGSC_DM_v3.4_pep_representative.fasta. and the result is in edit.txt.
+edit.py was used to edit the sequence to take everything except the last letter from  PGSC_DM_v3.4_pep_representative.fasta. and the result is in editor.txt.
 
 To select record of type CDS from NC_000913.gbk and create a file name NC_000913_cds.fasta filter2.py was used. The output was saved in filter2.txt
 
